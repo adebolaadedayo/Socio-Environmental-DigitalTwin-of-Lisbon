@@ -1,6 +1,6 @@
 # Prioritising Nature-Based Solutions for Urban Heat Adaptation through a Socio-Environmental Digital Twin Demonstrator in Lisbon.
 
-# Research Proposal Workflow
+# Research Proposal Workflow (Thesis Work Ongoing)
 
 ## Context 
 
