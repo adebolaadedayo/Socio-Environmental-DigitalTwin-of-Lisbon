@@ -1,0 +1,8 @@
+Socio-Environmental-DigitalTwin-of-Lisbon/
+├── .gitignore
+├── README.md
+└── web/
+    ├── index.html
+    ├── style.css
+    ├── config.js
+    └── main.js

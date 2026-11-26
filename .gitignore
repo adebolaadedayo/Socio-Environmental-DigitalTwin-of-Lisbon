@@ -1,0 +1,12 @@
+# Large geospatial & simulation files
+*.tif
+*.tiff
+*.las
+*.laz
+*.slpk
+*.zip
+
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
